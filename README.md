@@ -53,9 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHashem&layout=compact&theme=radical&langs_count=6&hide=css,html,python&custom_title=Most%20Used%20Languages%20(JavaScript%20First)" alt="most used languages" />
----
 
 ## 📫 Connect With Me
 - 📧 Email: **ahmedhashem.canrcc@gmail.com**  
