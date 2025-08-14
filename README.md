@@ -62,7 +62,7 @@
 - 📧 Email: **ahmedhashem.canrcc@gmail.com**  
 - 📱 Phone: **+20 122 504 3266**  
 - 🌍 Location: **Ismailia, Egypt**  
-- 💼 LinkedIn: [Your LinkedIn Profile](#)  
+- 💼 LinkedIn: [www.linkedin.com/in/ahmed-mahmoued-hashem](#)  
 
 <a href="https://komarev.com/ghpvc/?username=AhmedHashem&style=for-the-badge">
   <img src="https://komarev.com/ghpvc/?username=AhmedHashem&style=for-the-badge">
